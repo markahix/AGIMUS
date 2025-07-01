@@ -1,0 +1,21 @@
+[submodule "AutoMD"]
+	path = AutoMD
+	url = git@github.com:markahix/AutoMD.git
+[submodule "AutoAnalytics"]
+	path = AutoAnalytics
+	url = git@github.com:markahix/AutoAnalytics
+[submodule "DataSetBuilder"]
+	path = DataSetBuilder
+	url = git@github.com:markahix/DataSetBuilder.git
+[submodule "FeatureFinder"]
+	path = FeatureFinder
+	url = git@github.com:markahix/FeatureFinder
+[submodule "AutoQuantum"]
+	path = AutoQuantum
+	url = git@github.com:markahix/AutoQuantum.git
+[submodule "AutoParams"]
+	path = AutoParams
+	url = git@github.com:markahix/AutoParams
+[submodule "AutoSolvent"]
+	path = AutoSolvent
+	url = git@github.com:markahix/AutoSolvent.git
