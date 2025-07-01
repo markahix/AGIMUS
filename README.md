@@ -1,4 +1,4 @@
-#AGIMUS
+# AGIMUS
 
 Behold **AGIMUS**! The **A**utomated **G**eneralized **I**ntegrated **M**odules for **U**nderstanding **S**tructures.
 
