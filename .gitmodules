@@ -19,3 +19,6 @@
 [submodule "AutoSolvent"]
 	path = AutoSolvent
 	url = git@github.com:markahix/AutoSolvent.git
+[submodule "AutoMMPBSA"]
+	path = AutoMMPBSA
+	url = git@github.com:markahix/AutoMMPBSA.git
