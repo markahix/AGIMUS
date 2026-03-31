@@ -1,1 +1,5 @@
 .vscode/
+bin/
+Overseer/bin/
+Overseer/obj/
+Overseer/.AGIMUStracker
