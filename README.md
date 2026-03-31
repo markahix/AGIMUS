@@ -37,3 +37,4 @@ Each module is maintained as an independent repository which can be installed se
 
 ### To Do List
 - Incorporate [TCMDIR](https://github.com/markahix/TCMDIR) into TCSpectrumParse so that IR Spectra are automatically calculated whenever a QM/MM-MD output is encountered (accounting for the number and size of timesteps in the simulation).
+- Finish FeatureFinder single-molecule processing to identify known functional groups and scaffolds.
