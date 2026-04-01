@@ -9,7 +9,7 @@
 	url = git@github.com:markahix/AutoMMPBSA.git
 [submodule "AutoParams"]
 	path = AutoParams
-	url = git@github.com:markahix/AutoParams
+	url = git@github.com:markahix/AutoParams.git
 [submodule "AutoQuantum"]
 	path = AutoQuantum
 	url = git@github.com:markahix/AutoQuantum.git
@@ -21,7 +21,7 @@
 	url = git@github.com:markahix/DataSetBuilder.git
 [submodule "FeatureFinder"]
 	path = FeatureFinder
-	url = git@github.com:markahix/FeatureFinder
+	url = git@github.com:markahix/FeatureFinder.git
 [submodule "TCSpectrumParse"]
     path = TCSpectrumParse
 	url = git@github.com:markahix/TCSpectrumParse.git
