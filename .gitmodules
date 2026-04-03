@@ -23,5 +23,5 @@
 	path = FeatureFinder
 	url = git@github.com:markahix/FeatureFinder.git
 [submodule "TCSpectrumParse"]
-    path = TCSpectrumParse
+	path = TCSpectrumParse
 	url = git@github.com:markahix/TCSpectrumParse.git
